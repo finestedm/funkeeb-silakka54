@@ -48,3 +48,9 @@ Remapping with Vial does **not** normally require reflashing firmware. If an upd
 ## Credits and support
 
 Silakka54 was designed by [Squalius-cephalus](https://github.com/Squalius-cephalus/silakka54). This is an independent FunkeeB customer guide, not the original project. For questions about your FunkeeB keyboard, contact the shop through the [Etsy listing](https://www.etsy.com/listing/4462598582/).
+
+## Gallery
+
+![White Silakka54](https://i.etsystatic.com/64522840/r/il/d44bb4/8044344822/il_300x300.8044344822_p30h.jpg) ![Black Silakka54](https://i.etsystatic.com/64522840/r/il/6e27cc/7998779572/il_300x300.7998779572_o0qv.jpg) ![Silakka54 with blue keycaps](https://i.etsystatic.com/64522840/r/il/9e0746/8243969912/il_300x300.8243969912_qu4m.jpg)
+
+Photos from the FunkeeB Etsy listing.
